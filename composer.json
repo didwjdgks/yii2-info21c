@@ -1,0 +1,18 @@
+{
+  "name": "didwjdgks/yii2-info21c",
+  "type": "yii2-extension",
+  "authors": [
+    {
+      "name": "양정한",
+      "email": "yjh@info21c.net"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": ">=2.0.4"
+  }
+  "autoload": {
+    "psr-4": {
+      "info21c\\": ""
+    }
+  }
+}
